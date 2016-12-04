@@ -73,6 +73,7 @@ string:token|token（base64）
 string:username|用户名（base64）
 string:password|密码（base64）
 int:id_number|省份证号码
+int:phone_number|手机号码
 
 返回数据类型
 
